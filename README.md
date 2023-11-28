@@ -1,4 +1,4 @@
-<h1 align="center">GameZone</h1>
+<h1 align="center">Project GameZone</h1>
 
 <h1 align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,c" alt="Tubes Daskom"></a></h1>
 
@@ -11,4 +11,12 @@ Developer :
 - [Aliza Nurfitrian Meizahra ](https://github.com/Alizaaaja4) [ALL]
   > Practicum Assistant at Basic Computing Laboratory <br>
 
+### Version
+#### Version 2.5
+    - Added features to admin and user rollers
+    - Bug fixes
+    - Has more complex features
+
+    
+   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85929E&height=120&section=footer"/>
