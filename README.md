@@ -12,7 +12,7 @@ Developer :
   > Practicum Assistant at Basic Computing Laboratory <br>
 
 ### Version
-#### Version 2.5
+#### Version 2.3
     - Added features to admin and user rollers
     - Bug fixes
     - Has more complex features
