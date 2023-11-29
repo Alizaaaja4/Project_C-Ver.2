@@ -105,7 +105,7 @@ void header2(){
     printf("====================================================\n");
 }
 
-void menu_devcus(){
+void menu_devcus(){ //menu utama
     int menu;
     system("cls");
     fflush(stdin);
