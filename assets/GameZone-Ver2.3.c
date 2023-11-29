@@ -112,7 +112,7 @@ void menu_devcus(){ //menu utama
     header();
     printf("-----------------------------------------\n");
     printf("-- [1]. Developer                      --\n");
-    printf("-- [2]. Customer                       --\n");
+    printf("-- [2]. Player                         --\n");
     printf("-----------------------------------------\n");
     printf("/> "); scanf("%d", &menu);
     switch(menu){
