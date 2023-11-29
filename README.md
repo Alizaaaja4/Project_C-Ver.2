@@ -11,12 +11,18 @@ Developer :
 - [Aliza Nurfitrian Meizahra ](https://github.com/Alizaaaja4) [ALL]
   > Practicum Assistant at Basic Computing Laboratory <br>
 
-### Version
-#### Version 2.3
-    - Added features to admin and user rollers
-    - Bug fixes
-    - Has more complex features
-
+### Version 2.3
+ #### Developers
+     - Sign in
+     - Add game
+     - See game
+     - Delete game
+     - See feedback
+#### Player
+     - Sign up and Sign in
+     - Look at the player profile
+     - Download game
+     - View results from the game download
+     - Sending feedback
     
-   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85929E&height=120&section=footer"/>
