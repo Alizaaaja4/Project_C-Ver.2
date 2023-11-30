@@ -12,6 +12,7 @@ Developer :
   > Practicum Assistant at Basic Computing Laboratory <br>
 
 ### Version 2.3
+Version 2.4 of the GameZone app features two different user modes, namely Developer mode and Player mode. Each mode has unique features designed to meet the needs of users with different roles.
  #### Developers
      - Sign in
      - Add game
