@@ -16,9 +16,9 @@ Version 2.4 of the GameZone app features two different user modes, namely Develo
  #### Developers
      - Sign in
      - Add game
-     - See game
+     - View all game
      - Delete game
-     - See feedback
+     - View feedback
 #### Player
      - Sign up and Sign in
      - Look at the player profile
