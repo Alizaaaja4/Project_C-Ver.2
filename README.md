@@ -16,9 +16,9 @@ To access the features of GameZone, use the following credentials:
 
 ## Get Started ▶️
 ### Clone the Repository
-    git clone https://github.com/Alizaaaja4/Shell_PlayStore.git
+    git clone https://github.com/Alizaaaja4/Project_C-Ver.2.git
 
 ### Run my Programs with
-    gcc GameZone.c -o GameZone
+    gcc GameZone-Ver2.3.c -o GameZone-Ver2.3
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=85929E&height=120&section=footer"/>
